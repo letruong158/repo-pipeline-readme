@@ -2,6 +2,7 @@
 
 The pipelines were tested by executing them on Jenkins and reviewing the logs for each stage to ensure that all steps ran correctly and produced the expected outputs. Specific outputs, like the generated documentation from Doxygen and the archived artifacts, were checked for correctness.
 Here is the Jenkins server I set up specifically for the interview, with pipelines B and C so you can check further:
+
 URL: http://14.225.215.25:8080/
 User: admin
 Password: P@ssw0rd
